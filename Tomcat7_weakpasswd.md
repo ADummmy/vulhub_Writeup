@@ -34,11 +34,11 @@
 
 
 
-![Tomcat 7_weakpasswd_1](https://github.com/ADummmy/vulhub_Writeup/main/src/Tomcat 7_weakpasswd_1.jpg)
+![Tomcat 7_weakpasswd_1](https://github.com/ADummmy/vulhub_Writeup/blob/main/src/Tomcat7_weakpasswd_1.jpg)
 
  				点击Manager App 输入弱口令，进入管理界面
 
-​		![Tomcat 7_weakpasswd_2](https://github.com/ADummmy/vulhub_Writeup/main/src/Tomcat7_weakpasswd_2.png)
+​		![Tomcat 7_weakpasswd_2](https://github.com/ADummmy/vulhub_Writeup/blob/main/src/Tomcat7_weakpasswd_2.png)
 
 ​				
 
@@ -46,11 +46,11 @@
 
 可以看到，Path 增加了一个/test目录
 
-![Tomcat 7_weakpasswd_3](https://github.com/ADummmy/vulhub_Writeup/tree/src/Tomcat7_weakpasswd_3.jpg)
+![Tomcat 7_weakpasswd_3](https://github.com/ADummmy/vulhub_Writeup/blob/main/src/Tomcat7_weakpasswd_3.jpg)
 
 ​			访问/test/test.php,使用蚁剑连接。(笔者找了好多jsp的一句话，有的不可用，找了一个比较好的分享给大家，文章结尾有链接。)
 
-![Tomcat 7_weakpasswd_4](https://github.com/ADummmy/vulhub_Writeup/main/src/Tomcat7_weakpasswd_4.jpg)
+![Tomcat 7_weakpasswd_4](https://github.com/ADummmy/vulhub_Writeup/blob/main/src//Tomcat7_weakpasswd_4.jpg)
 
 ​				至此 getshell。
 
