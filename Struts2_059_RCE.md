@@ -56,7 +56,7 @@
 
 
 
-(PS：代码执行后无回显，利用bash反弹shell需要base64编码,，参考了 **hatjwe**师傅的文章)
+(PS:代码执行后无回显，利用bash反弹shell需要base64编码,此处参考了 **hatjwe**师傅的文章)
 
 base64在线编码： http://www.jackson-t.ca/runtime-exec-payloads.html 
 
