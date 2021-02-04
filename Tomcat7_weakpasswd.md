@@ -66,7 +66,7 @@
 
 
 
-![Tomcat 7_weakpasswd_4](https://github.com/ADummmy/vulhub_Writeup/blob/main/src//Tomcat7_weakpasswd_4.jpg)
+![Tomcat 7_weakpasswd_4](https://github.com/ADummmy/vulhub_Writeup/blob/main/src/Tomcat7_weakpasswd_4.jpg)
 
 
 
