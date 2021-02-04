@@ -42,17 +42,15 @@
 
 ​			登录界面
 
-![S2_001_rce_1](H:\vulhub_Writeup\src\S2_001_rce_1.jpg)
+![S2_001_rce_1](https://github.com/ADummmy/vulhub_Writeup/blob/main/src/S2_001_rce_1.jpg)
 
 
 
 ​			Burpsuite抓包，发送第一个payload
 
-!![S2_001_rce_2](H:\vulhub_Writeup\src\S2_001_rce_2.jpg)
+!![S2_001_rce_2](https://github.com/ADummmy/vulhub_Writeup/blob/main/src/S2_001_rce_2.jpg)
 
 ​				
-
-​		
 
 ### 0x03总结
 
