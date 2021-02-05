@@ -36,7 +36,7 @@
 
 ​			Burpsuite抓包，发送第一个payload
 
-![S2_059_rce_2](https://github.com/ADummmy/vulhub_Writeup/blob/main/src/S2_059_rce_2.png)
+![S2_059_rce_2](https://github.com/ADummmy/vulhub_Writeup/blob/main/src/S2_059_rce_2.jpg)
 
 ​				
 
@@ -52,7 +52,7 @@
 
 ​				docker进入容器，查看tmp目录，生成test文件，命令成功执行。
 
-![S2_059_rce_4](https://github.com/ADummmy/vulhub_Writeup/blob/main/src/S2_059_rce_4.png)
+![S2_059_rce_4](https://github.com/ADummmy/vulhub_Writeup/blob/main/src/S2_059_rce_4.jpg)
 
 
 
