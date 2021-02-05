@@ -53,8 +53,11 @@
 ​				docker进入容器，查看tmp目录，生成test文件，命令成功执行。
 
 ![S2_059_rce_4](https://github.com/ADummmy/vulhub_Writeup/blob/main/src/S2_059_rce_4.jpg)
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 6c75e40b557ae95fe37651e8958569b405ca31e4
 
 
 
