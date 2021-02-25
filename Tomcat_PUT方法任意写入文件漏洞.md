@@ -68,6 +68,10 @@ http://192.168.68.132:8080/1.jsp?pwd=023&i=ls
 
 
 
+![Tomcat_PUT方法任意写入文件漏洞_1](https://github.com/ADummmy/vulhub_Writeup/blob/main/src/Tomcat_PUT方法任意写入文件漏洞_1.jpg)
+
+![Tomcat_PUT方法任意写入文件漏洞_2](https://github.com/ADummmy/vulhub_Writeup/blob/main/src/Tomcat_PUT方法任意写入文件漏洞_2.jpg)
+
 
 
 ### 0x03参考资料
