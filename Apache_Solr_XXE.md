@@ -1,4 +1,4 @@
-# Apache Solr 远程命令执行漏洞（CVE-2017-12629）
+# Apache Solr xml实体注入漏洞（CVE-2017-12629）
 
 ###### by ADummy
 
