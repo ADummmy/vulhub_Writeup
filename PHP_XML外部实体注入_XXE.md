@@ -1,4 +1,4 @@
-# 带有PHPINFO的PHP本地文件包含RCE
+# PHP环境 XML外部实体注入漏洞（XXE）
 
 ###### by ADummy
 
