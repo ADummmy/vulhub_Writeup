@@ -1,4 +1,4 @@
-# Weblogic < 10.3.6 'wls-wsat' XMLDecoder 反序列化漏洞（CVE-2017-10271）
+# Weblogic WLS Core Components 反序列化命令执行漏洞（CVE-2018-2628）
 
 ###### by ADummy
 
