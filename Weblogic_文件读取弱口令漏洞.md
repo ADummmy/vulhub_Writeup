@@ -37,8 +37,6 @@ weblogic密码使用AES（老版本3DES）加密，对称加密可解密，只�
 
 `SerializedSystemIni.dat`是一个二进制文件，所以一定要用burpsuite来读取，用浏览器直接下载可能引入一些干扰字符。在burp里选中读取到的那一串乱码，右键copy to file就可以保存成一个文件：
 
-![Weblogic_任意文件上传漏洞_1](https://github.com/ADummmy/vulhub_Writeup/blob/main/src/Weblogic_任意文件上传漏洞_5.jpg)
-
 解密成功，我没有java1.6环境，懒了。
 
 ![Weblogic_文件读取弱口令漏洞_1](https://github.com/ADummmy/vulhub_Writeup/blob/main/src/Weblogic_文件读取弱口令漏洞_2.jpg)
