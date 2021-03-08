@@ -29,15 +29,11 @@ User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Tride
 Connection: close
 ```
 
-![Nodejs_目录穿越漏洞_1](H:\vulhub_Writeup\src\Nodejs_目录穿越漏洞_1.jpg)
+![Nodejs_目录穿越漏洞_1](https://github.com/ADummmy/vulhub_Writeup/blob/main/src/Nodejs_目录穿越漏洞_1.jpg)
 
 
 
-
-
-
-
-![Nodejs_目录穿越漏洞_1](H:\vulhub_Writeup\src\Nodejs_目录穿越漏洞_2.jpg)
+![Nodejs_目录穿越漏洞_1](https://github.com/ADummmy/vulhub_Writeup/blob/main/src/Nodejs_目录穿越漏洞_2.jpg)
 
 
 
